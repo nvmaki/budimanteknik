@@ -15,10 +15,8 @@
   --default-font: "Roboto",  system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --heading-font: "Roboto",  sans-serif;
   --nav-font: "Lato",  sans-serif;
-
-
 }
-@import url('https://fonts.googleapis.com/css2?family=Markazi+Text:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
 :root { 
@@ -740,10 +738,11 @@ section,
 /*--------------------------------------------------------------
 # About Section
 --------------------------------------------------------------*/
+
 .about {
-  font-family: 'Markazi Text', serif !important;
-  font-size: large;
+   font-family: 'Tinos', serif !important; 
 }
+
 
 .about .btn-get-started {
   background-color: var(--accent-color);
@@ -769,7 +768,7 @@ section,
 .about p {
   line-height: 1.7;
   color: var(--default-color);
-  font-family: 'Markazi Text', serif;
+   font-family: 'Tinos' serif !important; 
 }
 
 .about .swiper-pagination {
