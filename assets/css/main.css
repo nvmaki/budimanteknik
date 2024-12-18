@@ -421,6 +421,12 @@ h6 {
 /*--------------------------------------------------------------
 # Global Footer
 --------------------------------------------------------------*/
+
+.footer{
+  font-family: 'Merriweather Sans', serif !important; 
+  text-align: justify;
+}
+
 .footer {
   background-color: var(--background-color);
   color: var(--default-color);
@@ -798,6 +804,12 @@ section,
 /*--------------------------------------------------------------
 # About 2 Section
 --------------------------------------------------------------*/
+
+.about-2{
+  font-family: 'Merriweather Sans', serif !important; 
+}
+
+
 .about-2 .content {
   background-color: var(--surface-color);
   padding-top: 50px;
@@ -820,6 +832,7 @@ section,
 .about-2 p {
   line-height: 1.7;
   color: var(--default-color);
+  text-align: justify;
 }
 
 .about-2 .btn-get-started {
@@ -871,6 +884,12 @@ section,
 /*--------------------------------------------------------------
 # Stats Section
 --------------------------------------------------------------*/
+
+.stats{
+  font-family: 'Merriweather Sans', serif !important; 
+  text-align: justify;
+}
+
 .stats {
   padding-top: 60px;
 }
@@ -938,6 +957,12 @@ section,
 /*--------------------------------------------------------------
 # Blog Posts Section
 --------------------------------------------------------------*/
+
+.blog-posts{
+  font-family: 'Merriweather Sans', serif !important; 
+  text-align: justify;
+}
+
 .blog-posts .title-wrap {
   padding-bottom: 30px;
 }
