@@ -740,7 +740,7 @@ section,
 --------------------------------------------------------------*/
 
 .about {
-   font-family: 'Tinos', serif !important; 
+   font-family: 'Noto Sans', serif !important; 
 }
 
 
@@ -768,7 +768,8 @@ section,
 .about p {
   line-height: 1.7;
   color: var(--default-color);
-   font-family: 'Tinos' serif !important; 
+   font-family: 'Noto Sans' serif !important; 
+   text-align: justify;
 }
 
 .about .swiper-pagination {
